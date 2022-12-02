@@ -4,10 +4,8 @@
 
 ---
 ### About Me
-Hello. I'm M4x1mumReZ. I am into modding consoles and programming in general.
 
----
-### Socials
-GBAtemp: [M4x1mumReZ](https://gbatemp.net/members/m4x1mumrez.610331/)
-
+- 👋 Hi, I’m @M4x1mumReZ
+- 👀 I’m interested in modding, tinkering with computer hardware and programming.
+- 📫 You can contact me via [GBAtemp](https://gbatemp.net/members/m4x1mumrez.610331/).
 ---
