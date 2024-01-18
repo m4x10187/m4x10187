@@ -1,5 +1,3 @@
-![me](https://github.com/m4x10187/m4x10187/blob/main/3dgifmaker48490.gif)
-
 Welcome to my page!
 
 ---
